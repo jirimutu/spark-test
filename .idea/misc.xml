@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/mrotest/pom.xml" />
+        <option value="$PROJECT_DIR$/cdltest/pom.xml" />
       </list>
     </option>
   </component>
