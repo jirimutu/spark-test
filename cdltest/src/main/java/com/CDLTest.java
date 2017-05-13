@@ -6,6 +6,11 @@ package com;
 public class CDLTest {
     public static void main(String[] args) {
         System.out.println("print CDL result data!");
+        System.out.println("print CDL result data!");
+        System.out.println("print CDL result data!");
+        System.out.println("print CDL result data!");
+        System.out.println("print CDL result data!");
+        System.out.println("print CDL result data!");
     }
 
 
